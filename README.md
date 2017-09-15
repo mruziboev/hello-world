@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Just another repository 
+Hello humans. I like java and android, also C#.
